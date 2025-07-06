@@ -1,0 +1,5 @@
+{
+  "name": "Gemini-Powered E-commerce Store",
+  "description": "An advanced e-commerce store featuring customizable product views (list/grid), search, cart management, and a simulated checkout process. It leverages the Gemini API to dynamically generate creative product descriptions.",
+  "requestFramePermissions": []
+}
